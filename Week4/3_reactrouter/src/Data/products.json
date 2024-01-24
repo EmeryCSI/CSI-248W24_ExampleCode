@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "make": "Apple",
+    "model": "iPhone 13",
+    "price": 999.99,
+    "description": "The latest iPhone with a stunning Super Retina XDR display and A15 Bionic chip."
+  },
+  {
+    "id": 2,
+    "make": "Samsung",
+    "model": "Galaxy S21",
+    "price": 799.99,
+    "description": "Powerful Android smartphone with a high-quality camera and 5G connectivity."
+  },
+  {
+    "id": 3,
+    "make": "Sony",
+    "model": "PlayStation 5",
+    "price": 499.99,
+    "description": "Next-gen gaming console with ultra-fast SSD and immersive gaming experiences."
+  },
+  {
+    "id": 4,
+    "make": "Dell",
+    "model": "XPS 13",
+    "price": 1299.99,
+    "description": "Sleek and powerful laptop with a stunning InfinityEdge display and Intel Core processor."
+  }
+]
